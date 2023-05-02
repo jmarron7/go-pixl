@@ -1,8 +1,10 @@
-<h1 style="text-align: center;"> Welcome to Go-Pixl </h1>
+<h1 style="text-align: center;"> Welcome to Pixl!🖌️ </h1>
 
 ![Go-Pixl Editor](assets/go-pixl-screenshot.png)
 
 > A simple pixel art editor in Go
+
+---
 
 ## Features
 
@@ -11,3 +13,11 @@
 - Color selection via Color Picker
 - Multiple swatches available
 - Panning and zooming of canvas
+
+---
+
+## License
+
+> You can check out the full license [here](LICENSE)
+
+This project is licensed under the terms of the **MIT** license.
